@@ -1,0 +1,16 @@
+.header{
+    background-color: darkolivegreen;
+    display: flex;
+justify-content: center;
+}
+
+li{
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+}
+a{
+   
+    padding: 1rem;
+    color: black;
+}
